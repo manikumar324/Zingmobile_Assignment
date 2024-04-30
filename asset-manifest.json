@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zingmobile_Assignment/static/css/main.be83aa9f.css",
+    "main.js": "/Zingmobile_Assignment/static/js/main.74d78c60.js",
+    "static/js/453.64512fd7.chunk.js": "/Zingmobile_Assignment/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Zingmobile_Assignment/index.html",
+    "main.be83aa9f.css.map": "/Zingmobile_Assignment/static/css/main.be83aa9f.css.map",
+    "main.74d78c60.js.map": "/Zingmobile_Assignment/static/js/main.74d78c60.js.map",
+    "453.64512fd7.chunk.js.map": "/Zingmobile_Assignment/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be83aa9f.css",
+    "static/js/main.74d78c60.js"
+  ]
+}
